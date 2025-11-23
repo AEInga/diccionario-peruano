@@ -1,11 +1,3 @@
-
----
-
-## 5. 简单的 Python 代码（秘鲁西语注释）
-
-`src/diccionario.py` 示例：
-
-```python
 # -*- coding: utf-8 -*-
 """
 Diccionario Peruano 🇵🇪
